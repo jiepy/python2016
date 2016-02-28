@@ -192,7 +192,7 @@ Python中有两种循环结构：
 * `for` 语句
 
 === `while` 语句
-循环执行，直到满足条件，循环体内修改条件
+循环执行，知道条件不满足，循环体内修改条件
 [source,python]
 ----
 while condition:
